@@ -1,10 +1,10 @@
 const links = {
-    label1: "Week1 Notes",
-    url1: "week1/index.html",
-    label2: "Week2 Notes",
-    url2: "week2/index.html",
-    label3: "week3 Notes",
-    url3: "week3/index.html"
+    w1_label: "Week1 Notes",
+    w1_url: "week1/index.html",
+    w2_label: "Week2 Notes",
+    w2_url: "week2/index.html",
+    w3_label: "week3 Notes",
+    w3_url: "week3/index.html"
 };
 
 
