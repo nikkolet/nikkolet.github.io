@@ -7,9 +7,11 @@ document.getElementById("myButton").onclick = function() {
 }
 
 document.getElementById("myButtonCap").onclick = function() {
-    let myCapPhrase = document.getElementById("myText").value;
+    let myCapPhrase = document.getElementById("myPhrase").value;
 
-    let capOutput = capitalize(myCapPhrase);
+    let capOutput = myCapPhrase.replace(/\b\w/g, function(c) {
+        return c.toUpperCase()
+    });
 
     document.getElementById("capOutput").innerHTML = "Output: " + capOutput;
 }
