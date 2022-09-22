@@ -26,22 +26,22 @@ const links = {
     w13Label: "Week13 Notes",
     w13Url: "week13/index.html",
     w14Label: "Week14 Notes",
-    w1Url: "week14/index.html"
+    w14Url: "week14/index.html"
 };
 
 
 document.getElementById("list").innerHTML = `
-<li><a href=${links.w1Label}>${links.w1Url}</a></li>
-<li><a href=${links.w2Label}>${links.w2Url}</a></li>
-<li><a href=${links.w3Label}>${links.w3Url}</a></li>
-<li><a href=${links.w4Label}>${links.w4Url}</a></li>
-<li><a href=${links.w5Label}>${links.w5Url}</a></li>
-<li><a href=${links.w6Label}>${links.w6Url}</a></li>
-<li><a href=${links.w7Label}>${links.w7Url}</a></li>
-<li><a href=${links.w8Label}>${links.w8Url}</a></li>
-<li><a href=${links.w9Label}>${links.w9Url}</a></li>
-<li><a href=${links.w10Label}>${links.w10Url}</a></li>
-<li><a href=${links.w11Label}>${links.w11Url}</a></li>
-<li><a href=${links.w12Label}>${links.w12Url}</a></li>
-<li><a href=${links.w13Label}>${links.w13Url}</a></li>
-<li><a href=${links.w14Label}>${links.w14Url}</a></li>`;
+<li><a href=${links.w1Url}>${links.w1Label}</a></li>
+<li><a href=${links.w2Url}>${links.w2Label}</a></li>
+<li><a href=${links.w3Url}>${links.w3Label}</a></li>
+<li><a href=${links.w4Url}>${links.w4Label}</a></li>
+<li><a href=${links.w5Url}>${links.w5Label}</a></li>
+<li><a href=${links.w6Url}>${links.w6Label}</a></li>
+<li><a href=${links.w7Url}>${links.w7Label}</a></li>
+<li><a href=${links.w8Url}>${links.w8Label}</a></li>
+<li><a href=${links.w9Url}>${links.w9Label}</a></li>
+<li><a href=${links.w10Url}>${links.w10Label}</a></li>
+<li><a href=${links.w11Url}>${links.w11Label}</a></li>
+<li><a href=${links.w12Url}>${links.w12Label}</a></li>
+<li><a href=${links.w13Url}>${links.w13Label}</a></li>
+<li><a href=${links.w14Url}>${links.w14Label}</a></li>`;
