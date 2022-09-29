@@ -13,9 +13,60 @@
     <h1>Notes & Exercies</h1>
     <h2>Week 3</h2>
     <h3>Notes</h3>
-
+    <ul>
+        <li>
+            <p>For the first exercise I had to experiement a little bit. At first I did use the methods: .getDate(), .getmonth(), .getFullYear(), and .getDay().<br> I even made a daysOfWeek array and months of Year array and made a concated string that included
+                the variables for day, month, year, and dayname for the returning string. <br> Everthing except for the dayName was functioning perfectly. My variables were outside of my .onclick functions, but it didn't make sense why everything else
+                worked, but my dayName variable didn't. <br> I did some experimenting and found where I can just call the entire date and the -1 for the .getDate() method for yesterday and +1 to for tomorrow. <br> I chose to show this instead of my arrays
+                and my previous variables, because for me it is the same information I wanted to present, but simpified and with fewer lines of code.<br> I was thinking it would be more efficent to write this code than what I previously had.</p>
+        </li>
+        <li>
+            <p>The second exercise was surprisingly a lot easier to code, especially in comparison to the first exercise. </p>
+        </li>
+        <li>
+            <p>My team as a quesiton about one of the exercises we were given in our Team Activity Exercises List. <br> In Exercise 4, we were able to figure out this solution before we looked at the teacher solution. We have: <br> <br> const years = inventors.reduce((total,
+                inventor) => { return total + (inventor.passed - inventor.year); }, 0);
+                <br><br> What is the purpose of the , 0 after the curly brackets? Does it work like the .toFixed() method? <br> We know it works, and when we are without the , 0 after the curly brackets it gives us a long number that seems to be the location
+                of the object in the system, but we don't know why it works.<br> Will you please help us understand?
+            </p>
+        </li>
+    </ul>
     <h3>Exercies</h3>
+    <ol>
+        <li>
+            <p><b>What's The Date?</b></p>
+            <button id="yesterday">Yesterday</button>
+            <div id="yesterdayOutput"></div>
+            <button id="today">Today</button>
+            <div id="todayOutput"></div>
+            <button id="tomorrow">Tomorrow</button>
+            <div id="tomorrowOutput"></div>
+        </li>
+        <li>
+            <p><b>Finding the Area of Shapes</b></p>
+            <p>Note:</p>
+            <ul>
+                <li>For Area of Square enter your value into Height.</li>
+                <li>All output values have been rounded down to the nearest whole number.</li>
+                <li>You may use whole numbers or decimals.</li>
+            </ul>
+            <label>Enter Base</label><br>
+            <input type="text" id="base"><br>
+            <label>Enter Height</label><br>
+            <input type="text" id="height"><br>
+            <label>Enter Radius</label><br>
+            <input type="text" id="radius"><br>
+            <button type="button" id="triangle">Triangle</button>
+            <button type="button" id="square">Square</button>
+            <button type="button" id="rectangle">Rectangle</button>
+            <button type="button" id="circle">Circle</button>
+            <div id="triangleOutput"></div>
+            <div id="squareOutput"></div>
+            <div id="rectangleOutput"></div>
+            <div id="circleOutput"></div>
 
+        </li>
+    </ol>
 
     <script src="js/main.js"></script>
 </body>
