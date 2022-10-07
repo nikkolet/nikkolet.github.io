@@ -1,0 +1,67 @@
+/* CSS Code */
+
+
+/* Heading */
+
+h1 {
+    font-size: 45px;
+}
+
+
+/* 3*3 Grid */
+
+#a1,
+#a2,
+#a3,
+#b1,
+#b2,
+#b3,
+#c1,
+#c2,
+#c3 {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 45px;
+    text-align: center;
+}
+
+
+/* Reset Button */
+
+#reset {
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid dodgerblue;
+    margin: auto;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+/* Player turns space */
+
+#print {
+    font-family: 'Courier New', Courier, monospace;
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+#main {
+    text-align: center;
+}
+
+
+/* Game Instruction Text */
+
+#ins {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: dodgerblue;
+    font-size: 17px;
+}

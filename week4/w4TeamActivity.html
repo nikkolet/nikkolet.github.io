@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--CSS File Included-->
+    <link rel="stylesheet" type="text/css" href="css/ticTacToe.css">
+    <!--JavaScript File Included-->
+    <script src="js/ticTacToe.js"></script>
+</head>
+
+<body>
+    <div id="main">
+        <!--Instructions-->
+        <h1>Tic Tac Toe</h1>
+        <p id="ins">Game starts by clicking the box<br><br>First Player starts as <b>Player X</b><br>And<br>Second Player as <b>Player O</b></p>
+        <br><br>
+        <!--3*3 grid of Boxes-->
+        <input type="text" id="a1" onclick="myfunc();">
+        <input type="text" id="a2" onclick="myfunc();">
+        <input type="text" id="a3" onclick="myfunc();">
+        <br><br>
+        <input type="text" id="b1" onclick="myfunc();">
+        <input type="text" id="b2" onclick="myfunc();">
+        <input type="text" id="b3" onclick="myfunc();">
+        <br><br>
+        <input type="text" id="c1" onclick="myfunc();">
+        <input type="text" id="c2" onclick="myfunc();">
+        <input type="text" id="c3" onclick="myfunc();">
+
+        <!--Grid ends here-->
+        <br><br><br>
+        <!--Button to reset game-->
+        <button id="reset" onclick="resetGame();">Reset</button>
+        <!--Space to show player turn-->
+        <p id="print"></p>
+    </div>
+</body>
+
+</html>
