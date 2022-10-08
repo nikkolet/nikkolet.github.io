@@ -1,8 +1,8 @@
-a:text {
+ol li a {
     color: #4070f4;
     text-decoration: none;
 }
 
-a:hover {
+ol li a:hover {
     text-decoration: underline;
 }
