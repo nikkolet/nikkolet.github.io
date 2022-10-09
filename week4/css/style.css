@@ -1,8 +1,18 @@
-ol li a {
+/* -- Google Font Import - Porformsins --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+ol li a,
+a {
     color: #4070f4;
     text-decoration: none;
 }
 
-ol li a:hover {
+ol li a:hover,
+a:hover {
     text-decoration: underline;
 }

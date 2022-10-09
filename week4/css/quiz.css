@@ -1,0 +1,69 @@
+/* -- Google Font Import - Porformsins --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: url("https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg") no-repeat;
+    background-size: cover;
+}
+
+.dojo {
+    /* background: url("https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg") no-repeat;
+    background-size: cover; */
+    /* background-color: #fff; */
+    width: 100%;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.quiz-body {
+    background: rgba(255, 255, 255, 1);
+    margin: 250px 33%;
+    padding: 10px 20px 50px 20px;
+    -webkit-box-shadow: 4px 4px 11px 3px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 4px 4px 11px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 4px 11px 3px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    color: #611bca;
+    font-weight: 900;
+    font-size: 48px;
+    margin: 0;
+}
+
+button {
+    color: #fff;
+    background-color: #611bca;
+    border-color: #611bca;
+    border-radius: 4px;
+    margin: 0.2em 0;
+    display: block;
+    width: 100%;
+    font-size: 24px;
+}
+
+#question {
+    font-size: 24px;
+}
+
+#result {
+    color: #fff;
+    margin: 0 0.2em 0;
+    width: 100%;
+}
+
+.correct {
+    background-color: #0c0;
+}
+
+.wrong {
+    background-color: #c00;
+}
