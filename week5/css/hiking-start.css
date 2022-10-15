@@ -33,7 +33,11 @@ ul {
 div div {
     float: right;
     margin: 1em;
-    margin-top: -16em;
+    margin-top: -18em;
     font-size: 24px;
     margin-right: 13em;
+}
+
+h3 {
+    margin-top: 2em;
 }
