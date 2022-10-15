@@ -4,40 +4,55 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+main>h1 {
+    text-align: center;
+    background-color: indianred;
+    padding: 1em;
+    margin-top: 0;
+    margin-bottom: -0.5em;
+}
+
 img {
     max-width: 100%;
-    width: 50%;
 }
 
-h1 {
-    text-align: center;
-    background-color: green;
-    font-size: 5em;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    margin-top: 0;
+.hidden {
+    display: none;
 }
 
-h2 {
-    text-align: center;
-    background-color: green;
-    font-size: 3em;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
+.hikeStyles {
     padding: 0;
+    margin: 1em 0;
+    list-style-type: none;
 }
 
-div div {
-    float: right;
-    margin: 1em;
-    margin-top: -18em;
-    font-size: 24px;
-    margin-right: 13em;
+.hikeStyles div {
+    padding: 0 0.5em;
 }
 
-h3 {
-    margin-top: 2em;
+.hikeStyles li>h2 {
+    text-align: center;
+    background-color: burlywood;
+    margin-bottom: 0.5em;
+}
+
+.light {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.light>h2 {
+    width: 100%;
+    flex: 1 0 auto;
+}
+
+.light>div {
+    width: 40%;
+    margin-left: 1em;
+    flex: 1 1 auto;
+}
+
+.light h3 {
+    margin-bottom: -0.5em;
 }
