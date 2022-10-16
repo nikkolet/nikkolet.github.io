@@ -29,6 +29,8 @@ const links = {
     w14Url: "week14/index.html"
 };
 
+
+
 document.getElementById("list").innerHTML = `
 <li><a href=${links.w1Url}>${links.w1Label}</a></li>
 <li><a href=${links.w2Url}>${links.w2Label}</a></li>
