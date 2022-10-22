@@ -5,26 +5,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Todo List</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css" integrity="sha384-z4tVnCr80ZcL0iufVdGQSUzNvJsKjEtqYZjiQrrYKlpGow+btDHDfQWkFjoaz/Zr" crossorigin="anonymous">
     <link rel="stylesheet" href="css/toDoApp.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
 
     <header>
-        <h1>Your Todo List</h1>
+        <h1>Todos</h1>
     </header>
     <form>
         <input type="text" class="todo-input">
         <button class="todo-button" type="submit">
-            <i class="fa-solid fa-square-plus"></i>
-    </button>
+    +
+        </button>
+        <div class="select">
+            <select name="todos" class="filter-todo">
+            <option value="all">All</option>
+            <option value="completed">Completed</option>
+            <option value="uncompleted">Uncompleted</option>
+        </select>
+        </div>
+
     </form>
     <div class="todo-container">
-        <ul class="todo-list">
-
-        </ul>
+        <ul class="todo-list"></ul>
     </div>
+
+
 
     <script src="js/toDoApp.js"></script>
 </body>
