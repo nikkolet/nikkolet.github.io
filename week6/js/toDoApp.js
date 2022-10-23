@@ -3,12 +3,13 @@ const todoInput = document.querySelector(".todo-input");
 const todoButton = document.querySelector(".todo-button");
 const todoList = document.querySelector(".todo-list");
 const filterOption = document.querySelector(".filter-todo");
+const tasksLeft = document.querySelector(".tasks-left");
 
 //Event Listeners
 todoButton.addEventListener("click", addToDo);
 todoList.addEventListener("click", deleteCheck);
-filterOption.addEventListener("click", filterTodo)
-
+filterOption.addEventListener("click", filterTodo);
+tasksLeft.addEventListener("load", tasksLeft);
 //Functions
 
 function addToDo(event) {

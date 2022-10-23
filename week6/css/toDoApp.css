@@ -139,3 +139,9 @@ select {
     background: white;
     color: #ff6f47;
 }
+
+.tasks-left {
+    background: white;
+    padding: 3rem;
+    color: black;
+}
