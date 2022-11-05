@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WDD 330 Portfolio</title>
+    <link rel="stylesheet" href="css/style.css" />
+
+</head>
+
+<body>
+    <h1>
+        <a href="https://swapi.dev/" target="_blank" rel="noreferrer">SWAPI</a> Exercise
+    </h1>
+    <main>
+        <div class="listbox">
+            <table id="shiplist">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Length</th>
+                        <th>Crew</th>
+                    </tr>
+                </thead>
+
+                <tbody></tbody>
+            </table>
+
+            <a id="prev" href="#">&lt;-Prev</a> <a id="next" href="#">Next -&gt;</a>
+        </div>
+        <div id="detailsbox" class="hidden">
+            <dl>
+                <dt>Name:</dt>
+                <dd class="name"></dd>
+                <dt>Model:</dt>
+                <dd class="model"></dd>
+                <dt>Class:</dt>
+                <dd class="class"></dd>
+                <dt>*Movies:</dt>
+                <dd class="movies"></dd>
+            </dl>
+        </div>
+    </main>
+
+</body>
+<script src="starWarsAsync.js"></script>
+<script src="starWarsPromies.js"></script>
+
+</html>
