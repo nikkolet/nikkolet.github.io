@@ -1,5 +1,5 @@
 //helper function to fetch the data from an external source and return it in JSON format
-const url = 'https://swapi.dev/api/';
+// const url = 'https://swapi.dev/api/';
 async function getJSON(url) {
     try {
         const response = await fetch(url);
