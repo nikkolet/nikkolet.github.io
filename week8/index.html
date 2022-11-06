@@ -21,20 +21,51 @@
             <ul>
                 <li><a href="https://www.youtube.com/watch?v=rzD-cPhq02E">Transformations</a>
                     <p>
-                        For transforms, there are 3 main functions used: translate, scale, and rotate. Each has more than one option.<br><br> For example translate, can look like translate(), translate3D(), translateX(), translateY(), and translateZ().
+                        For transforms, there are 3 main functions used: translate, scale, and rotate. Each has more than one option.<br><br>For example translate, can look like translate(), translate3D(), translateX(), translateY(), and translateZ().
                         All of the have such variations. <br><br>In the video he said, that 99% of the time when doing Web Development you will only use the original functions to create your CSS effects. <br>The others are only best when working with
-                        3D animations which you probably won't work with very often.
+                        3D animations which you probably won't work with very often. What is an example of 3D CSS animation where it would be relevant to use such variables?
                     </p>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Nloq6uzF8RQ">Transitions</a>
+                    <p>For the transition-duration property we can use seconds(s) or miliseconds(ms). Though seconds seem a lot easier to write and read, it is a good rule of thumb to use miliseconds, because JavaScript only accepts miliseconds.</p>
+                    <p>CSS variables are a great way to organize transforms that are being rewritten later without having to deal with large amounts of code. <br><br>Example: var(--varname, value);<br><br>This looks like it will come in handy later.</p>
                 </li>
             </ul>
         </li>
         <li>
             <h4>Ch12: Canvas, SVG, and Drag and Drop</h4>
-            <p></p>
+            <p>Here I was struggling just watching this on a video or reading it, so I decided I would follow a long with a video to learn how to apply everything that we have been learning about.</p>
+            <p>Here is the link to file I made: <a href="canvas.html">Canvas Tutorial HTML</a></p>
+            <p>In the video, he explained that when using canvas there are four basic skills that you need: <br><br>
+                <ol>
+                    <li>Creating and Resizing your Canvas</li>
+                    <li>Drawing Elements</li>
+                    <li>Animating Elements</li>
+                    <li>Interacting with Elements</li>
+                </ol>
+            </p>
+            <p>There are six canvas objects:
+                <ol>
+                    <li>Rectangles</li>
+                    <li>Lines</li>
+                    <li>Arcs/Circles</li>
+                    <li>Bezier Curves</li>
+                    <li>Images</li>
+                    <li>Text</li>
+                </ol>
+            </p>
+            <p>Here are links to the videos I watched: <a href="https://www.youtube.com/watch?v=EO6OkltgudE&t=237s">Canvas HTML ep. 1</a>, <a href="https://www.youtube.com/watch?v=83L6B13ixQ0">Canvas HTML ep. 2</a></p>
+            <p>The height and width set in JavaScript helps so that when you give height and width 100% it will actually look that way on the screen. It does not appear that way on CSS alone.</p>
         </li>
     </ol>
-    <h3>Exercies</h3>
+    <h3>Team Activity</h3>
     <a href="starWarsAPI.html">starWarsAPI</a>
+    <p>For our Team Activity, we have noticed a reoccuring problmem for the team. Cooper and I are on laptops (Cooper is on a MacBook and I am on a Windows 11 PC), while Marcus is on a desktop.</p>
+    <p>For Cooper and I, we keep getting a 404 error in our console whenever we inspect the webpage because it doesn't show the data that Marcos is viewing from his end. We double-checked our code against the teacher's solution, but the problem doens't seem
+        to resolve. We are all using the same URL path.</p>
+    <p>I had similar issues last semester. I was able to view some of the photos I imported from an API because it said the port the server was sending information to was closed to me.<br><br> Do you think sometime next week you could meet with me and Cooper
+        so that we can try to figure this out. I don't want the students using laptops to be unable to complete the semester project because of these issues.</p>
 
 
     <script src="js/main.js"></script>
