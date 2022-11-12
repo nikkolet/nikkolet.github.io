@@ -58,7 +58,29 @@
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
 <script>
+ const keys = Array.from(document.querySelectorAll('.key'));
+ keys.forEach(key => key['count'] = 0);
 
+ function sound(e){
+
+    const keyPress = document.querySelector(`div[data-key="${e.keyCode}"]`);
+    const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+
+    keyPress['count'] += 1;
+
+    if ( keyPress['count'] > 10 ){
+      keyPress['count'] = 0;
+    }
+
+    keyPress.classList.add('playing');
+    audio.play();
+    keyPress.style.marginTop = `${keyPress['count']*10}px`;
+ 
+ }
+
+  window.addEventListener('keydown', (e)=>{
+    sound(e);
+  });
 </script>
 
 
