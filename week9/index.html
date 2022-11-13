@@ -13,8 +13,74 @@
     <h1>Notes & Exercies</h1>
     <h2>Week 9</h2>
     <h3>Notes</h3>
+    <ol>
+        <li>
+            <h4>Ch9: The Window Object</h4>
+            <p>When refering to global variables, we shouldn't use the window object in the name to make it more portable within environments. Why wouldn't it make it as portable? Are the windows used called different names on different devices make it incompatible?<br>The
+                only exception given was if you are checking to see if a global variable has been defined.</p>
+            <p>The window.confirm() method is new to me. It definitely looks like something I will use in the future.</p>
+            <p>window.navigator.userAgent can be used to find out browser and operating system being used, but it shouldn't be trusted because it is easy to manually put in false information. Why can such information be manually changed? With this being
+                such a security risk I looked up possible work arounds for this problem. Why isn't this just ommitted out altogether from JS versions. Would it be too costly or too much of a mess to do permenantly?</p>
+            <p><a href="https://javascript.plainenglish.io/3-facts-you-should-know-about-user-agent-a476251ee3b5">3 Facts You Should Know About User Agent</a></p>
 
-    <h3>Exercies</h3>
+        </li>
+        <li>
+            <h4>Ch14:HTML5 APIs</h4>
+            <p>The data- attribute came as a surprise to me in the team activity. I had not ever worked with this attribute before. So to use it you put data-[insert attribute name here], right? What differenciates this from using ids and classes in HTML?
+                Is it just because it is more specific?</p>
+            <p>I was disappointed to learn that when they were talking about cookies, it didn't mean chocolate chip. It is still amazing to learn the benefits of using cookies to store data until a browser is closed. <br><br> Web storage has creater storage
+                capacity and can be shared with browsers with the same domain.</p>
+            <p>I found a website that better helped me understand between local storage, session storage, and cookies: <a href="https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie">www.xenonstack.com</a></p>
+            <p>If my understanding is correct, the differences between local storage, session storage, and cookies are as follows:
+                <ul>
+                    <li>
+                        <b>Local Storage:</b> Data with key:value pairs (Storage Capacity: 10MB), that is saved until it is manually deleted. Data does not expire and does not end when user closes the window or tab. Does not exchange with the server.
+                    </li>
+                    <li>
+                        <b>Session Storage:</b> Data with key:value pairs (Storage Capacity: 5MB), that is saved only as long as the tab remains open. When tab closes, data is terminated. Does not exchange with the server.
+                    </li>
+                    <li>
+                        <b>Cookie:</b> Data that stores one key:value pair at a time (Storage Capacity: 5KB) and is saved only as long as the tab remains open. When the tab closes, the data is terminated. Exchanges with the server upon any request.<br><br>                        I didn't know this, but there are actually two diffent types of Cookies.
+                        <ul>
+                            <li>Session Cookies: They expire when the tab closes.</li>
+                            <li>Persistent Cookies: They can be set to expire on a specific date or for a specified length of time.</li>
+                        </ul>
+                        Cookies were also the only way to store data before HTML5. This must have been a game changer.
+                    </li>
+                </ul>
+            </p>
+        </li>
+        <li>
+            <h4>Modern Front End Development Workflow.</h4>
+            <p>I have node.js successfully install unto my computer, but I don't know how to install npm to my computer. The instructions and the videos I watched made it seem as if it would be automatically installed when I uploaded node, but in my commandline
+                when I would type in "nmp -v" or "node -v" it would show the folowing: </p>
+            <p>
+                <ul>
+                    <li>
+                        C:\Users\Nikko>npm -v '"node"' is not recognized as an internal or external command, operable program or batch file. '"node"' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                    <li>
+                        C:\Users\Nikko>npm install '"node"' is not recognized as an internal or external command, operable program or batch file. '"node"' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                    <li>
+                        C:\Users\Nikko>install npm 'install' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                    <li>
+                        C:\Users\Nikko>node -v 'node' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                    <li>
+                        C:\Users\Nikko>install node 'install' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                    <li>
+                        C:\Users\Nikko>node install 'node' is not recognized as an internal or external command, operable program or batch file.
+                    </li>
+                </ul>
+                <br> I think I might have an file path problem, but I am not sure how to solve it. I followed two videos to make sure I was installing it correctly, but I am not seeing the results that they showed. Would it be okay if I were to meet with
+                you sometime this week to be able to ensure that npm and node is installed correctly?
+                <br> Thank you.
+            </p>
+        </li>
+    </ol>
 
 
     <script src="js/main.js"></script>
