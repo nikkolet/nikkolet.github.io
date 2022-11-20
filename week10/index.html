@@ -13,9 +13,37 @@
     <h1>Notes & Exercies</h1>
     <h2>Week 10</h2>
     <h3>Notes</h3>
+    <ol>
+        <li>
+            <h1>Client-side form validation</h1>
+            <p>I have learned that one of the benefits of having client-side form validation is that it prevents loading delays due to errors going to the server that need time to then go back and let the user know their mistake. As a preventive measure,
+                there should be validation checks on both client and server side.</p>
+            <p>There are two different types of validation. There is built-in validation using html or there is javaScript validation using, well JavaScript. Built-in validation is faster, but not as customizable, so it really depends on what you are using
+                the validation for. For JavaScript validation you will need to complete it all or get a library to complete it. Is there ever a case where we are using built-in form validation and JavaScript validation, or is it simply one or the other
+                to make things simpler.</p>
+            <p>When looking at the modern form controls, "pattern" seemed to be the only attribute I am not familiar with. I dived in deeper and it seems that "pattern" is basically the format the data needs to be submitted as, such as a phone number could
+                be formated as (###)###-####.</p>
+            <p>I have used the UI Pseudo-Classes to validate forms when they were filled out and they have been very helpful to me.</p>
+            <p>I found a website that lists the pseudo-classes available righr now: <a href="https://www.scaler.com/topics/css/pseudo-classes-in-css/">Pseudo-Classes</a></p>
+            <p>It seems that I wouldn't be using JavaScript validation nearly as much as client-side form validation. How often would you say you use JavaScript validation normally in your projects?</p>
+            <p>The novalidate is an attribute used to turn off the browser's automatic validation to get a more customized validation. This doesn't destroy the validation API, nor does it change the validation pseudo-classes. I can see why this would be
+                useful for customization validation. Do I ever have to worry about this attribute not working depeding on what browser and device I am using or does it work all around?</p>
+            <p>The Aria-live attribute is used to display error-messages within a span tag. That sounds like a strangely specific yet sensible thing to do.
+            </p>
+        </li>
+        <li>
+            <h1>Using the Fetch API</h1>
+            <p>The fetch() method in JavaScript works like jQuery.ajax() method in asynchronous processing of requests. Fetch() however, is different, because it won't reject HTTP error codes even 404 or 500. I don't understand what it is meaning by the
+                Promise resolves as soon as the Headers return. What exactly does that mean? </p>
+            <p>Some Headers can only be controled by the user agent for security reasons.</p>
+            <p>If fetch() is sent without credentials it process cookies (temporary data).<br><br> Here is an example: <br><br>fetch('https://example.com', <br>{ credentials: 'include' });
+            </p>
+            <p>I have learned that to upload a file you can use the html tag input with "file" for type. Example: <input type="file">, and in JavaScript you use fetch() and FormData(). for the FormData(), this seems to work as adding data that is to go on
+                a form through JavaScript rather than filling out <input> tags within HTML. Why would I use DataForm() rather than the value of what was submitted in the form? Does FormData() append data too a json file without manually putting in the
+                json file?</p>
 
-    <h3>Exercies</h3>
-
+        </li>
+    </ol>
 
     <script src="js/main.js"></script>
 </body>
