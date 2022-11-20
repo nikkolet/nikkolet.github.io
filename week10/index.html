@@ -36,11 +36,11 @@
             <p>The fetch() method in JavaScript works like jQuery.ajax() method in asynchronous processing of requests. Fetch() however, is different, because it won't reject HTTP error codes even 404 or 500. I don't understand what it is meaning by the
                 Promise resolves as soon as the Headers return. What exactly does that mean? </p>
             <p>Some Headers can only be controled by the user agent for security reasons.</p>
-            <p>If fetch() is sent without credentials it process cookies (temporary data).<br><br> Here is an example: <br><br>fetch('https://example.com', <br>{ credentials: 'include' });
+            <p>If fetch() is sent without credentials it process cookies (temporary data).<br><br> Here is an example of fetch with credentials: <br><br>fetch('https://example.com', <br>{ credentials: 'include' });
             </p>
             <p>I have learned that to upload a file you can use the html tag input with "file" for type. Example: <input type="file">, and in JavaScript you use fetch() and FormData(). for the FormData(), this seems to work as adding data that is to go on
                 a form through JavaScript rather than filling out <input> tags within HTML. Why would I use DataForm() rather than the value of what was submitted in the form? Does FormData() append data too a json file without manually putting in the
-                json file?</p>
+                json file? If not, is there a way to append data to a json file through JavaScript?</p>
 
         </li>
     </ol>
