@@ -25,8 +25,8 @@ const links = {
     w12Url: "week12/index.html",
     w13Label: "Week13 Notes",
     w13Url: "week13/index.html",
-    w14Label: "Week14 Notes",
-    w14Url: "week14/index.html"
+    w14Label: "Semester Project",
+    w14Url: "SemesterProject/index.html"
 };
 
 
