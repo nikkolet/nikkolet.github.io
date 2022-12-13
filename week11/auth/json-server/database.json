@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "user1@email.com",
+      "password": "user1",
+      "firstname": "Test",
+      "lastname": "User",
+      "age": 20,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@email.com",
+      "password": "user2"
+    },
+    {
+      "email": "user3@email.com",
+      "password": "$2a$10$gFzBsVMWTJAB3H81DDDS3.iGM4lVCBh9SMlfAipzyHnd/X17mk9y6",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "title": "First Post!",
+      "content": "I can't believe I got first post.",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "First Post!",
+      "content": "Woot! I never get first post!",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "title": "First Post!",
+      "content": "Did I really get first?",
+      "userId": "3",
+      "createdAt": 1558736105449,
+      "id": 8
+    },
+    {
+      "title": "post 5",
+      "content": "post 5",
+      "userId": "user1@email.com",
+      "createdAt": 1559159434900,
+      "id": 11
+    },
+    {
+      "title": "post 6",
+      "content": "post 6",
+      "userId": "user1@email.com",
+      "createdAt": 1559159640285,
+      "id": 12
+    },
+    {
+      "title": "Post",
+      "content": "content",
+      "userId": "user1@email.com",
+      "createdAt": 1669520888815,
+      "id": 13
+    },
+    {
+      "title": "Title",
+      "content": "message",
+      "userId": "user1@email.com",
+      "createdAt": 1669520946194,
+      "id": 14
+    }
+  ]
+}
