@@ -1,0 +1,78 @@
+[{
+        "question": "What is the Elvish word for friend",
+        "answer": "Mellon",
+        "opt": ["Muindor", "Faroth", "Parma"],
+        "quote": "When the Fellowship arrived at the Mines of Moria, there was Elvish writing inscribed on the doors. Gandalf translated it as, \"The Door of Durin, Lord of Moria. Speak, friend, and enter.\" Frodo realized that it was a riddle and asked Gandalf the Elvish word for \"friend\". \"Mellon,\" Gandalf replied, and the massive doors opened. Mellon = Friend, Muindor = Brother,Faroth = Hunt or Pursue, Parma = Book"
+
+    }, {
+        "question": "When they show the first image of Mordor, what happens to Mount Doom?",
+        "answer": "It erupts",
+        "opt": [
+            "It crumbles", "Sauron stands on the summit", "Orcs crawl down the side"
+        ],
+        "quote": "In the land of Mordor, in the fires of Mount Doom, the Dark Lord Sauron in secret forged a master ring to control all others."
+    }, {
+        "question": "According to Lord Elrond, \"It is because of _______ that the Ring survives.\"",
+        "answer": "Greed",
+        "opt": [
+            "The Power of Deception", "Evil", "Men"
+        ],
+        "quote": "While in Rivendell, he told Gandalf, \"I was there 3,000 years ago. I was there the day the strength of men failed.\" He flashed back to the battle on the day that Isildur took the Ring and refused to destroy it. Lord Elrond said the Men were leaderless and scattered, but Gandalf said there was one who could unite them and reclaim the throne."
+    }, {
+        "question": "At Khazad-Dúm, after being chased by the Balrog, who was the first to jump over the gap in the crumbling rocks?",
+        "answer": "Legolas",
+        "opt": [
+            "Boromir", "Gandalf", "Aragorn"
+        ],
+        "quote": "Legolas jumped first, and called to Gandalf (who jumped second). Third was Boromir, holding Merry and Pippin. Sam was tossed by Aragorn, but Gimli said, \"Nobody tosses a dwarf!\" He barely made the leap (Legolas caught him by the beard). Finally only Aragorn and Frodo remained as the rocks collapsed beneath them. Aragorn told Frodo to lean forward and the two reached the other side before the rocks crumbled behind them."
+    },
+    {
+        "question": "The Crebain of Dunland, spies of Saruman, appeared when the Fellowship was on a course in what direction from the Misty Mountains?",
+        "answer": "West",
+        "opt": [
+            "North", "South", "East"
+        ],
+        "quote": "The Fellowship was on a course west of the Misty Mountains and heading south towards the Gap of Rohan when the creatures appeared. Legolas spotted a \"wisp of cloud\" in the sky, moving fast, and against the wind. Gandalf realized that the creatures were spies of Saruman and the path south was being watched. He announced, \"We must take the Pass of Caradhras.\""
+    },
+    {
+        "question": "Boromir referred to Aragorn as all but which?",
+        "answer": "My Leader",
+        "opt": [
+            "My Brother", "My King", "My Captain"
+        ],
+        "quote": "When Boromir was wounded after fighting valiantly against the opposing army, he spoke for a moment with Aragorn. He showed that he had finally accepted Aragorn not only as the king of the throne, but his king as well. His last words were saying, \"My brother, my captain, my king.\""
+    },
+    {
+        "question": "Lord Elrond told Gandalf, \"This evil cannot be concealed by the power of the ________.\"",
+        "answer": "Elves",
+        "opt": [
+            "Men", "Dwarves", "Hobbits"
+        ],
+        "quote": "Lord Elrond told Gandalf that the Elves did not have the power to take on both Mordor and Isengard. He said this as they were both in Rivendell, waiting as the enemies approached. Much to Gandalf's dismay, he was told that the Ring could not stay in Rivendell. Gandalf knew that Frodo would have to continue to bear \"the burden he should never have had to bear\"."
+    },
+    {
+        "question": "What is the first line in the movie (in the language spoken)?",
+        "answer": "I amar prestar aen",
+        "opt": [
+            "Much that once was is lost", "the world has changed", "Han mathon ne nen"
+        ],
+        "quote": "If you listen carefully, the elvish phrase said by Galadriel is \"I amar prestar aen.\" The translation is \"the world has changed.\" \"I amar prestar aen. The world is changed. Han mathon ne nen. I feel it in the water. Han mathon ne chae. I feel it in the earth.\""
+    },
+    {
+        "question": "What were Gandalf the Grey's last words?",
+        "answer": "\"Fly, you fools!\"",
+        "opt": [
+            "\"Even The Very Wise Cannot See All Ends.\"", "\"You must trust yourself. Trust your own strength.\"", "\"True courage is knowing not when to take a life, but when to spare one.\""
+
+        ],
+        "quote": "Gandalf faced the demon on the bridge of Khazad-Dúm, willing it not to pass. He said, \"I am a servant of the Secret Fire, wielder of the flame of Anor. The dark fire will not avail you, flame of Udûn.\" It tried to strike him and Gandalf demanded, \"Go back to the Shadow. You shall not pass!\" The creature fell into the depths, pulling Gandalf off the rocks with it. As he struggled to hold, Gandalf said, \"Fly, you fools!\" and tumbled into the darkness. His words were the first to be heard, echoing through the mountains in \"The Two Towers\"."
+    },
+    {
+        "question": "How long was the ring lost?",
+        "answer": "2500 years",
+        "opt": [
+            "423 years", "1900 years", "3535 years"
+        ],
+        "quote": "\"And some things that should not have been forgotten were lost. History became legend. Legend became myth. And for two and a half thousand years, the ring passed out of all knowledge.\""
+    }
+]

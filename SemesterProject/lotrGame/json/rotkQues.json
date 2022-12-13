@@ -1,0 +1,75 @@
+[{
+        "question": "Who is the King described in the title \"Return of the King\"?",
+        "answer": "Aragon",
+        "opt": [
+            "Saruman", "Sauron", " Éomer"
+        ],
+        "quote": "Yes, it is Aragorn. Considering he's the heir to the throne of Gondor, it makes sense that he's the King."
+    },
+    {
+        "question": "Who destroys the One Ring? ",
+        "answer": "Gollum",
+        "opt": [
+            "Sam", "Frodo", "Saruman"
+        ],
+        "quote": "Gollum does, albeit by accident. Frodo puts on the ring, and so Gollum, trying to get \"My Precious\" back, bites off Frodo's index finger. Just an author's note: Gollum & Sméagol are the same person. Sméagol changed into Gollum with his continued use of the One Ring."
+    },
+    {
+        "question": "“Who says the line \"I am no man!\"?",
+        "answer": "Eowyn",
+        "opt": [
+            "Pippin", "Mary", "Arwen"
+        ],
+        "quote": "She says this line just before she sticks her sword in the Witch King's face, destroying him. She does that so she can save her uncle, Théoden King."
+    },
+    {
+        "question": "Who is the last one to enter the Dark Door?",
+        "answer": "Gimli",
+        "opt": [
+            "Aragon", "Legolas", "None of them go in"
+        ],
+        "quote": "After the horses are spooked and run off, Aragorn says, \"I do not fear death\", and enters the Paths of the Dead, followed quickly by Legolas. Gimli hesitates, noting that he'd never hear the end of it if he didn't go with them, since Legolas went in."
+    }, {
+        "question": "Complete this quote by the King of the Dead,\"Who enters my ______?\"",
+        "answer": "domain",
+        "opt": [
+            "realm", "premises", "kingdom"
+        ],
+        "quote": "N/A"
+    }, {
+        "question": "Who leads Frodo and Sam(although Sam was told to \"go home\" by Frodo) into the tunnel where a trap awaits?",
+        "answer": "Gollum",
+        "opt": [
+            "The orcs", "Saruman", "Sauron"
+        ],
+        "quote": "Gollum, knowing that Shelob is always hungry, leads the two into a trap. Frodo, not believing Sam when Sam caught Gollum talking to himself (about the trap and the spider), sends Sam away. Sam saves the day, though, and follows Gollum and Frodo into the tunnel, and fights off Shelob from Frodo's paralyzed body."
+    }, {
+        "question": "Who does Sam marry at the end of the movie?",
+        "answer": "Rosie Cotton",
+        "opt": [
+            "Éowyn", "No one", "Arwen Evenstar"
+        ],
+        "quote": "Yes, he marries his beloved Rosie Cotton and they had 13 children together. The eldest child that is shown at the end of the movie is Sean Astin's (Samwise Gamgee) real-life child. Rosie Cotton and Samwise Gamgee are married. It's implied that later so are Arwen Evenstar and Aragorn. It is also semi-implied that Faramir and Éowyn get together, but that one happens in the book, not the movie."
+    }, {
+        "question": "Who, among many, would die if the One Ring wasn 't destroyed?",
+        "answer": "Arwen Evenstar",
+        "opt": [
+            "Aragon", "Lady Galadriel", "Éowyn"
+        ],
+        "quote": "Arwen's father told Aragorn that she would die if the One Ring wasn't destroyed. Aragorn was also told Arwen's life was tied into the Ring."
+    }, {
+        "question": "In King Théoden 's tent, on the eve of the battle at Minas Tirith, who tells Aragorn to: \"Put aside the Ranger. Become who you were born to be.\"",
+        "answer": "Elrond",
+        "opt": [
+            "Arwen", "Theoden", "Gandalf"
+        ],
+        "quote": "N/A"
+    }, {
+        "question": "Who tells Éowyn the following, as he is leaving to seek out the army of the dead who live in the mountains? \"It is but a shadow and a thought that you love. I cannot give you what you seek.\"",
+        "answer": "Aragon",
+        "opt": [
+            "Faramir", "Eomer", "Theoden"
+        ],
+        "quote": "Éowyn is infatuated with Aragorn, but his heart still belongs to Arwen."
+    }
+]

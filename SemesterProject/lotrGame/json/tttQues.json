@@ -1,0 +1,78 @@
+[{
+        "question": "Who banished Eomer from the kingdom of Rohan",
+        "answer": "King Theoden",
+        "opt": [
+            "Grima", "Eowyn", "He wasn't banished"
+        ],
+        "quote": "You are banished from the kingdom of Rohan, under pain of death.\" Grima said this to Eomer when Eomer was telling Grima that Grima has haunted Eowyn. But he had no power to banish him. Grima got Theoden to sign the document. And then Grima said to Eomer, \"It does not come from me, it comes from the king."
+    }, {
+        "question": "While Aragorn, Legolas, and Gimli were trying to catch up to Merry and Pippin, Gimli mentions something about two kinds of races.What did he say the Dwarves were dangerous at",
+        "answer": "Short Distances",
+        "opt": [
+            "Cross Country", "He didn't mention racing", "Relays"
+        ],
+        "quote": "Gimli says that he's wasted on cross country, but is dangerous over short distances."
+    },
+    {
+        "question": "Finish this quote by Legolas to Gimli: \"Shall I _______ it to you, or would you like me to find you a ______.\"",
+        "answer": "Describe and Box",
+        "opt": [
+            "Explain and Box", "Explain and Crate", "Describe and Crate"
+        ],
+        "quote": "N/A"
+    },
+    {
+        "question": "When the Orcs and Uruk - Hai soldiers who took Merry and Pippin were looking for meat, in the words of an Uruk - Hai soldier, why was \"meat back on the menu\" ?",
+        "answer": "The leader had just killed an orc who was trying to eat Merry and Pippin",
+        "opt": [
+            "The Uruk - Hai, and Orcs were just going to eat the two hobbits' legs", "The Uruk - Hai, and Orcs were going to eat Merry and Pippin", "The leader was going to sacrifice himself so the others would be fed"
+        ],
+        "quote": "As they were feasting on the dead Orc, the Rohirrim soldiers ambushed the group, leaving none alive. Merry and Pippin managed to crawl away, cut the binds on their hands, and escape into Fangorn Forest. One Orc, however, also got away and followed Merry and Pippin into the forest. The Orc caught Merry and was holding a blade up to him. Then, an ent (Treebeard) stomped on the Orc. Merry and Pippin were saved."
+    },
+    {
+        "question": "You would only know the answer to this question if you watched the extended version of \"The Two Towers\".After the battle of Helms Deep, Gimli and Legolas had a chat about who killed the most enemies.How many did Gimli have ?",
+        "answer": "43",
+        "opt": [
+            "38", "33", "48"
+        ],
+        "quote": "Legolas: \"Final count, forty two.\" Gimli: \"42? That's not bad for a pointy - eared Elvish princeling. I myself am sitting pretty on forty three.\" And then Legolas whips out an arrow and shoots the orc that Gimli was sitting on. Legolas: \"Forty three!\" Gimli: \"He was already dead.\" Legolas: \"He was twitching.\" Gimli: \"He was twitching, because he's got my axe embedded in his nervous system!\""
+    },
+    {
+        "question": "This is another question you wouldn 't have known without the extended version. After the battle of Helms Deep, Gimli and Legolas had a chat about who killed the most enemies. How many did Legolas have?",
+        "answer": "42",
+        "opt": [
+            "47", "32", "37"
+        ],
+        "quote": "Gimli beat Legolas, 43 - 42."
+    },
+    {
+        "question": "Who had come to the aid of men at the battle of Helm's Deep?",
+        "answer": "Two Of The Answers Are Correct",
+        "opt": [
+            "The Dwarves", "More Men", "The Elves"
+        ],
+        "quote": "Haldir and his crew of elves came in the beginning, and then Gandalf brought Eomer and the Rohirrim towards the end of the battle."
+    }, {
+        "question": "Who returned the necklace from Arwen to Aragorn?",
+        "answer": "Legolas",
+        "opt": [
+            "Eowyn", "Gimli", "Gandalf"
+        ],
+        "quote": "Legolas returned it. Before returning it, he said, 'Le abdollen', meaning 'You are late'."
+    },
+    {
+        "question": "According to Legolas, where was the specific place the uruks are taking the hobbits ?",
+        "answer": "Isengard",
+        "opt": [
+            "Mordor", "Fangorn Forest", "Rohan"
+        ],
+        "quote": "Legolas says, 'They're taking the hobbits to Isengard!'. This was before Merry and Pippin escaped."
+    }, {
+        "question": "Who says, 'Unleash the river'?",
+        "answer": "Treebeard",
+        "opt": [
+            "Saruman", "Sauron", "Gandalf"
+        ],
+        "quote": "One of the ents, Treebeard says this. The ents want to 'release the river' to wash away all of Saruman's orcs, uruk-hai and their work equipment."
+    }
+]
