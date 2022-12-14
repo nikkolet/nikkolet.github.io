@@ -26,7 +26,9 @@ const links = {
     w13Label: "Week13 Notes",
     w13Url: "week13/index.html",
     w14Label: "Semester Project",
-    w14Url: "SemesterProject/index.html"
+    w14Url: "SemesterProject/index.html",
+    w15Label: "Video Evaluation",
+    w15Url: "SemesterProject/video.html"
 };
 
 
@@ -44,4 +46,6 @@ document.getElementById("list").innerHTML = `
 <li><a href=${links.w11Url}>${links.w11Label}</a></li>
 <li><a href=${links.w12Url}>${links.w12Label}</a></li>
 <li><a href=${links.w13Url}>${links.w13Label}</a></li>
-<li><a href=${links.w14Url}>${links.w14Label}</a></li>`;
+<li><a href=${links.w14Url}>${links.w14Label}</a></li>
+<li><a href=${links.w15Url}>${links.w15Label}</a></li>
+`;
