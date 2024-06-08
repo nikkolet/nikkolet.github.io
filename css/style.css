@@ -9,6 +9,8 @@
   height: auto;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 .flex-box{
   width: 200px;
