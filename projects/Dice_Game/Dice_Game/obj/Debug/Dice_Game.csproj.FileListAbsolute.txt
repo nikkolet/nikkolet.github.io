@@ -1,0 +1,7 @@
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe.config
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\bin\Debug\Dice_Game.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.AssemblyReference.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\obj\Debug\Dice_Game.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\Dice_Game\Dice_Game\obj\Debug\Dice_Game.pdb

@@ -1,0 +1,15 @@
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
