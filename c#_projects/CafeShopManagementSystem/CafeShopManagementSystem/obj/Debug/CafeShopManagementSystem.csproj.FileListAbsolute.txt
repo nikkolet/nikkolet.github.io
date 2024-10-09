@@ -8,3 +8,4 @@ C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSyste
 C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.exe
 C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.RegisterForm.resources

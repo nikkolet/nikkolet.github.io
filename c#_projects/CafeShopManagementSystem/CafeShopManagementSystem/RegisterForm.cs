@@ -16,5 +16,33 @@ namespace CafeShopManagementSystem
         {
             InitializeComponent();
         }
+
+        private void RegisterForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void register_cPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void register_loginBtn_Click(object sender, EventArgs e)
+        {
+            Form1 loginForm = new Form1();
+            loginForm.Show();
+
+            this.Hide();
+        }
     }
 }
