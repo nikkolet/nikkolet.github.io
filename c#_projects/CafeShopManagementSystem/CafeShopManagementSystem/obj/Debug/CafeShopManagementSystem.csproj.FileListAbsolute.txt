@@ -1,0 +1,10 @@
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.exe.config
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.Form1.resources
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.Properties.Resources.resources
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.pdb

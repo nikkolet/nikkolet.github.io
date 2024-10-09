@@ -1,0 +1,7 @@
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\c#_projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb

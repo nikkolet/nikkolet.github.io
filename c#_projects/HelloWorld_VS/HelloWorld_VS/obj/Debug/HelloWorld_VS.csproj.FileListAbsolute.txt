@@ -1,0 +1,7 @@
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\bin\Debug\HelloWorld_VS.exe.config
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\bin\Debug\HelloWorld_VS.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\bin\Debug\HelloWorld_VS.pdb
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\obj\Debug\HelloWorld_VS.csproj.AssemblyReference.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\obj\Debug\HelloWorld_VS.csproj.CoreCompileInputs.cache
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\obj\Debug\HelloWorld_VS.exe
+C:\Users\Nikkolet\Documents\GitHub\Portfolio\projects\HelloWorld_VS\HelloWorld_VS\obj\Debug\HelloWorld_VS.pdb
